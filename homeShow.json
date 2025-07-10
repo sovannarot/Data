@@ -1,0 +1,12 @@
+[
+  {
+    "title": { "En": "🛒 MID YEAR SALE 📢", "Kh": "លក់ផាកពេញឆ្នាំ" },
+    "type": "midyearsale",
+    "text": "category"
+  },
+  {
+    "title": { "En": "🛒 MID MONTH SALE 📢", "Kh": "" },
+    "type": "midmonthsale",
+    "text": "category"
+  }
+]
